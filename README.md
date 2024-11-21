@@ -68,3 +68,4 @@ This is a Java-based application that simulates a basic management system for a 
 4. Follow the prompts to add products and view details in the console.
 
 ---
+Happy coding! 😊
